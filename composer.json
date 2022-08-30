@@ -1,0 +1,7 @@
+{
+    "name": "m2os/m2os",
+    "description": "This package serves to register the packagist.org m2os vendor name",
+    "authors": [ ],
+    "require": {},
+    "license": "MIT"
+}
